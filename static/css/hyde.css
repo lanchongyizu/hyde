@@ -157,6 +157,25 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/* Post Meta
+ *
+ */
+
+.post-meta {
+  font-size: 0.8rem;
+  color: #878787;
+  font-weight: 300; }
+
+.post-meta-category {
+  font-weight: bold; }
+
+.post-meta-tag {
+  background: #eee;
+  border-radius: 2px;
+  color: #606570;
+  font-size: 0.667rem;
+  font-weight: bold;
+  padding: 2px 6px; }
 
 /*
  * Reverse layout
